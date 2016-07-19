@@ -18,9 +18,7 @@ var arr = [
             'http://img.dwstatic.com/www/1605/326487013743/1462867118922.jpg',
             'http://img2.dwstatic.com/www/1607/332156260726/1468201777561.png',
             'http://img4.dwstatic.com/www/1607/331553311031/1467598667542.png',
-            'http://ued.yypm.com/project/ued-lab/index/img/pic-interaction.jpg',
-            'http://ued.yypm.com/project/ued-lab/index/img/pic-sdk.jpg',
-            'http://ued.yypm.com/project/ued-lab/index/img/pic-lego.jpg'
+            'http://s1.dwstatic.com/group1/M00/47/8C/e5cc2e5c714e272ae2531bd61d00d316.jpg'
         ];
 
  new ImgLoader(arr, {
