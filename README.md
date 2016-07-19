@@ -42,7 +42,7 @@ new ImgLoader(arr, function(time) {
 
 ## 配置参数
 |参数名|类型|注释|
-|------------------|
+| ---------- |:-------:|:-----|
 |arr|Array|预加载的图片数组|
 |onLoading|Function|加载完每一张图片的回调函数，参数count：当前加载到第几张；total：所有图片的总数；src: 当前加载的图片|
 |onComplete|Function|加载完所有图片的回调函数，参数time：加载所有图片耗时|
