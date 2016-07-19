@@ -7,7 +7,7 @@
 ## 使用
 1. 引入
 ```javascript
-<script src="http://assets.dwstatic.com/common/lib/imgloader/0.1.0/imgloader.js"></script>
+<script src="imgloader.js"></script>
 或者
 var imgLoader = require('./lib/imgLoader.js');
 ```
